@@ -37,7 +37,4 @@ services:
     depends_on:
       - php
 
-# Postgres можеш лишити, але для цієї ЛР він не потрібен
-#  postgres:
-#    image: postgres:16
-#    ...
+
